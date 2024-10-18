@@ -1,0 +1,1 @@
+The project aims to scrape smartphone data from https://gsm24.pl/12-smartfony. The project aims to acquire smartphone data using bs4 (BeautifulSoup), requests, and then save it to a postgre database. An additional goal will be to automate the scraper using airflow to control the pipline process.
